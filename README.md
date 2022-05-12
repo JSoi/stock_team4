@@ -51,6 +51,9 @@ E반 4조의 첫번째 프로젝트! - 존버의 민족
 📦view
  ┗ 📜view.py
  📜app.py
+ 📜appspec.yml
+ 📜requirements.txt
+ 📜util.py
 ```
 ###  __Stacks__ 📚
 
